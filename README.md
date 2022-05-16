@@ -1,4 +1,4 @@
-# Fuzzy-logic-controller
+# A Fuzzy Logic Controller built in C++
 
 A prototype fuzzy logic controller API based on a control engineering perspective, focusing on simplicity, versatility, and application independency.
 
